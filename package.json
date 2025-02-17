@@ -1,6 +1,6 @@
 {
   "name": "nike",
-  "private": true,
+  "private": false,
   "homepage": "https://anas-lazaar.github.io/Nike_landing_page/",
   "version": "0.0.0",
   "type": "module",
