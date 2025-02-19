@@ -1,3 +1,4 @@
+import "./Hero.css";
 const Button = ({
   label,
   iconURL,
